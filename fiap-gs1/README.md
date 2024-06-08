@@ -14,7 +14,7 @@ Aplicação Java com container Global Solution - 1° Semestre
 #### Clone
 
 ```
-git clone https://github.com/art5hur/fiap-gs1.git
+git clone https://github.com/RenanLeite7/fiap-gs1.git
 ```
 
 ## Execução
